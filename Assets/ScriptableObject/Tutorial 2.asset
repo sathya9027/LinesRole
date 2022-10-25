@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a4a832b91ee4e74eb03ed36f4b0f950, type: 3}
+  m_Name: Tutorial 2
+  m_EditorClassIdentifier: 
+  tutorialDesc: Press Red Pencil Icon on top to change pencil mode to static which
+    makes the lines immovable, which becomes to blue line
